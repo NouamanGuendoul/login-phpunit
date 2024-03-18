@@ -1,0 +1,12 @@
+{
+    "name": "media/code_voor_de_opdracht",
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeVoorDeOpdracht\\": "src/"
+        }
+    },
+    "require": {}
+}
